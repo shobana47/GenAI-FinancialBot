@@ -1,0 +1,25 @@
+# Chatbot Test Results
+
+## Query 1: What is the total revenue?
+User Input: What is the total revenue?
+Chatbot Response: The total revenue is $168,088.
+
+## Query 2: How has net income changed over the last year?
+User Input: How has net income changed over the last year?
+Chatbot Response: The net income has increased by $10,000 over the last year.
+
+## Query 3: What are the total assets?
+User Input: What are the total assets?
+Chatbot Response: The total assets are $344,607.
+
+## Query 4: What are the total liabilities?
+User Input: What are the total liabilities?
+Chatbot Response: The total liabilities are $198,304.
+
+## Query 5: What is the cash flow from operating activities?
+User Input: What is the cash flow from operating activities?
+Chatbot Response: The cash flow from operating activities is $89,192.
+
+## Additional Query: Unrecognized query
+User Input: What is the market share of Apple?
+Chatbot Response: Sorry, I can only provide information on predefined queries.
