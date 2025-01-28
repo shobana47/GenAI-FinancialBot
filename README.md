@@ -84,11 +84,11 @@ Installation
 Clone the repository:
 
 bash
-git clone https://github.com/yourusername/GenAI-FinancialInsights.git
+git clone https://github.com/yourusername/GenAI-FinancialBot.git
 Navigate to the project directory:
 
 bash
-cd GenAI-FinancialInsights
+cd GenAI-FinancialBot
 Install dependencies:
 
 bash
